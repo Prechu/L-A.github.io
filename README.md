@@ -1,2 +1,2 @@
-# Prechu.github.io
+# L-A.github.io
 Мой первый сайт.Логинов А.С.
