@@ -1,0 +1,44 @@
+body {
+	display: block;
+}
+.main {
+padding-top: 50px;	
+}
+.text-center {
+	text-align: center;	
+}
+
+.info {
+padding-bottom: 130px;	
+}
+div {
+	display: block;
+}
+.block {	
+padding-bottom: 40px;
+
+margin:0 auto;
+
+}
+h2 {
+font-family: Arvo;
+color:  #3b3e6a;
+font-size: 27px;
+font-weight: bold;
+line-height: 82.18px;
+	
+}
+h3 {
+font-family: 'Arvo', serif;
+color:  #3b3e6a;
+ display: block;
+ font-size: 23px;
+ font-weight: bold;
+
+}
+h4 {
+font-family: 'Noto Sans', sans-serif;
+color:  #686b8b;
+ display: block; 
+ font-weight: bold;
+}
